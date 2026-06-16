@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "description": {
+      "text": "Tesseract's Server pack",
+      "type": "text",
+      "color": "#52abff"
+    },
+    "pack_format": 46,
+    "supported_formats": 61
+  }
+}

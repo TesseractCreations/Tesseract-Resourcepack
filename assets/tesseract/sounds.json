@@ -1,0 +1,8 @@
+{
+  "meth.sniff": {
+    "replace": false,
+    "sounds": [
+      "tesseract:meth"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "tesseract:wither"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "tesseract:wither"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "tesseract:hud.ttf",
+      "size": 7,
+      "oversample": 32
+    }
+  ]
+}
