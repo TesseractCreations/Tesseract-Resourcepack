@@ -4,5 +4,10 @@
     "sounds": [
       "tesseract:meth"
     ]
+  },
+  "confetti": {
+    "sounds": [
+      "tesseract:confetti"
+    ]
   }
 }
