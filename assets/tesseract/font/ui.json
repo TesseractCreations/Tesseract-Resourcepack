@@ -5,62 +5,6 @@
             "ascent": 500,
             "height": 1000,
             "chars": ["\uD001"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wb-on.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD002"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wb-off.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD003"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wb-on.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD004"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wb-off.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD005"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wc-on.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD006"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wc-off.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD007"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wh-on.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD008"]
-        },
-        {
-            "type": "bitmap",
-            "file": "tesseract:ui/wh-off.png",
-            "ascent": 16,
-            "height": 16,
-            "chars": ["\uD009"]
         }
     ]
 }
